@@ -1,0 +1,6 @@
+pandas
+folium
+fastapi
+
+pyngrok
+streamlit
