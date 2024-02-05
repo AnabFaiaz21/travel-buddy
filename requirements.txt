@@ -1,6 +1,6 @@
 pandas
 folium
 fastapi
-
+geopy
 pyngrok
 streamlit
